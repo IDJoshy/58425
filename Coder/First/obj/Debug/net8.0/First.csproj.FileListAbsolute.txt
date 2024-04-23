@@ -1,0 +1,15 @@
+C:\Users\joshu\OneDrive\Documentos\Repos\58425\Coder\First\bin\Debug\net8.0\First.exe
+C:\Users\joshu\OneDrive\Documentos\Repos\58425\Coder\First\bin\Debug\net8.0\First.deps.json
+C:\Users\joshu\OneDrive\Documentos\Repos\58425\Coder\First\bin\Debug\net8.0\First.runtimeconfig.json
+C:\Users\joshu\OneDrive\Documentos\Repos\58425\Coder\First\bin\Debug\net8.0\First.dll
+C:\Users\joshu\OneDrive\Documentos\Repos\58425\Coder\First\bin\Debug\net8.0\First.pdb
+C:\Users\joshu\OneDrive\Documentos\Repos\58425\Coder\First\obj\Debug\net8.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\OneDrive\Documentos\Repos\58425\Coder\First\obj\Debug\net8.0\First.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Documentos\Repos\58425\Coder\First\obj\Debug\net8.0\First.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Documentos\Repos\58425\Coder\First\obj\Debug\net8.0\First.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documentos\Repos\58425\Coder\First\obj\Debug\net8.0\First.sourcelink.json
+C:\Users\joshu\OneDrive\Documentos\Repos\58425\Coder\First\obj\Debug\net8.0\First.dll
+C:\Users\joshu\OneDrive\Documentos\Repos\58425\Coder\First\obj\Debug\net8.0\refint\First.dll
+C:\Users\joshu\OneDrive\Documentos\Repos\58425\Coder\First\obj\Debug\net8.0\First.pdb
+C:\Users\joshu\OneDrive\Documentos\Repos\58425\Coder\First\obj\Debug\net8.0\First.genruntimeconfig.cache
+C:\Users\joshu\OneDrive\Documentos\Repos\58425\Coder\First\obj\Debug\net8.0\ref\First.dll
