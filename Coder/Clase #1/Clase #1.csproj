@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\Repos\58425\Coder\CoderHouse C#\CoderHouse C#.csproj" />
+  </ItemGroup>
+
 </Project>
