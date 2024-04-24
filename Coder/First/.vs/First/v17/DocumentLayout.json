@@ -1,16 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joshu\\OneDrive\\Documentos\\Repos\\58425\\Coder\\First\\",
+  "WorkspaceRootPath": "C:\\Users\\joshu\\OneDrive\\Documentos\\CoderHouse\\Repositories\\58425\\Coder\\First\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA5AA81C-77C1-4455-A553-F6B16C234D1F}|..\\3\\3.csproj|c:\\users\\joshu\\onedrive\\documentos\\repos\\58425\\coder\\3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5687E4C1-60D5-48B4-92F8-D4CEBE0CB665}|..\\Switch\\Switch.csproj|c:\\users\\joshu\\onedrive\\documentos\\repos\\58425\\coder\\switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E57B3F03-C49C-405D-9E81-BF5546BA7DE6}|First.csproj|c:\\users\\joshu\\onedrive\\documentos\\repos\\58425\\coder\\first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E57B3F03-C49C-405D-9E81-BF5546BA7DE6}|First.csproj|c:\\users\\joshu\\onedrive\\documentos\\coderhouse\\repositories\\58425\\coder\\first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E57B3F03-C49C-405D-9E81-BF5546BA7DE6}|First.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joshu\\OneDrive\\Documentos\\Repos\\58425\\Coder\\3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joshu\\OneDrive\\Documentos\\Repos\\58425\\Coder\\Switch\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,15 +20,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Documentos\\Repos\\58425\\Coder\\First\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Documentos\\CoderHouse\\Repositories\\58425\\Coder\\First\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documentos\\Repos\\58425\\Coder\\First\\Program.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documentos\\CoderHouse\\Repositories\\58425\\Coder\\First\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -38,29 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Documentos\\Repos\\58425\\Coder\\3\\Program.cs",
-              "RelativeDocumentMoniker": "..\\3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Repos\\58425\\Coder\\3\\Program.cs",
               "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documentos\\Repos\\58425\\Coder\\3\\Program.cs",
-              "RelativeToolTip": "..\\3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Repos\\58425\\Coder\\3\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T01:21:46.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T01:21:46.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Documentos\\Repos\\58425\\Coder\\Switch\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Switch\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Repos\\58425\\Coder\\Switch\\Program.cs",
               "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documentos\\Repos\\58425\\Coder\\Switch\\Program.cs",
-              "RelativeToolTip": "..\\Switch\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Repos\\58425\\Coder\\Switch\\Program.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAkwDIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T00:55:17.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T00:55:17.486Z"
             }
           ]
         }

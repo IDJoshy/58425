@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joshu\\OneDrive\\Documentos\\Repos\\58425\\Coder\\Switch\\Switch.csproj",
+      "projectUniqueName": "C:\\Users\\joshu\\OneDrive\\Documentos\\CoderHouse\\Repositories\\58425\\Coder\\Switch\\Switch.csproj",
       "projectName": "Switch",
-      "projectPath": "C:\\Users\\joshu\\OneDrive\\Documentos\\Repos\\58425\\Coder\\Switch\\Switch.csproj",
+      "projectPath": "C:\\Users\\joshu\\OneDrive\\Documentos\\CoderHouse\\Repositories\\58425\\Coder\\Switch\\Switch.csproj",
       "packagesPath": "C:\\Users\\joshu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joshu\\OneDrive\\Documentos\\Repos\\58425\\Coder\\Switch\\obj\\",
+      "outputPath": "C:\\Users\\joshu\\OneDrive\\Documentos\\CoderHouse\\Repositories\\58425\\Coder\\Switch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joshu\\AppData\\Roaming\\NuGet\\NuGet.Config",
