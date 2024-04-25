@@ -140,9 +140,9 @@
 
 */
 
-// Ejemplo if / if-else y switch
+#region Ejemplo if / if-else y switch
 
-//0
+// if-else
 int cantidadProductoVendido;
 int cantidadProductoDeposito = 50;
 int stock;
@@ -176,7 +176,7 @@ else
 
 }
 
-//1
+//Switch
 string commision;
 
 Console.WriteLine("Ingrese turno A, B, C");
@@ -205,7 +205,7 @@ switch (commision)
         break;
 }
 
-//2
+// if, else, else if
 
 float nota;
 
@@ -231,3 +231,5 @@ else
         Console.WriteLine("Promocion");
     }
 }
+
+#endregion

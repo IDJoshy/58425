@@ -1,6 +1,6 @@
 ﻿// Clase #1 CoderHouse C#
 
-/* 
+/* Variables y Constantes 
  
   - Variables: es un pequeño espacio de memoria de computadora donde se guardan datos que se autilizaran a 
     largo plazo en la vida del programa.
@@ -27,9 +27,8 @@
 
  */
 
-// Datos 
-
-/* 
+/* Datos
+ 
   - Tipos de datos:
 
     - int, long, short  | Numeros enteros | 178; -52; 6276372623
@@ -48,7 +47,7 @@
     
  */
 
-//  Ejemplos
+#region Ejemplos
 
 /*
      * guardar los siguientes datos en variables y mostrarlos por consola:
@@ -106,3 +105,5 @@ string segundaPalabra = Console.ReadLine();
 string palabraFinal = primeraPalabra + " \"Coder\" " + segundaPalabra;
 
 Console.WriteLine(palabraFinal);
+
+#endregion
