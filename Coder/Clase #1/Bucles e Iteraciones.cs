@@ -49,9 +49,8 @@
 
 #region Ejemplos
 
-/*
-     * guardar los siguientes datos en variables y mostrarlos por consola:
-     
+/* Guardar los siguientes datos en variables y mostrarlos por consola:
+    
         Nombre: 
         Apellido: 
         DNI:
@@ -77,9 +76,8 @@ altura = Convert.ToSingle(Console.ReadLine());
 Console.WriteLine("Bienvenido: {0} {1}, {2}", nombre, apellido, dni);
 Console.WriteLine("Altura: {0}", altura);
 
-/*
-     * Sumar dos números
-*/
+
+// Sumar dos números
 
 int primerNumero;
 int segundoNumero;
@@ -93,9 +91,7 @@ int suma = (primerNumero + segundoNumero);
 
 Console.WriteLine(suma);
 
-/*
-     * Concatenar 
-*/
+// Concatenar
 
 Console.WriteLine("Ingrese primera palabra");
 string primeraPalabra = Console.ReadLine();

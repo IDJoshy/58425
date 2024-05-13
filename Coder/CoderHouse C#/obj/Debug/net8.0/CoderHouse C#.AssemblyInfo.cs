@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoderHouse C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e73e8990282a52cd972ea3e6adc6a139ab85a752")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58b8067bf280cbc9184d7e1cae99de0b41f9aae9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoderHouse C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoderHouse C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
